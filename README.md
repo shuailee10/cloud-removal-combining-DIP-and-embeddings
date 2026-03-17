@@ -8,7 +8,7 @@ torch==1.8.1
 numpy=1.19.2
 rasterio=1.0.21
 ```
-## Paper
+## :paper: Study
 
 This repository accompanies the following paper:
 
