@@ -17,7 +17,7 @@ https://ieee-dataport.org/documents/paired-sentinel-1-and-sentinel-2-images-and-
 ## :memo: Citation
 Please cite the following paper if you use any part of this repository:
 ```bibtex
-@article{li2026cloudremoval,
+@article{j.srs.2026.100404,
   author = {Li, S. and He, Y. and Yang, D. and Li, Y. and Liu, W.},
   title = {Incorporating learned geospatial embeddings to deep image prior for inpainting cloud areas in remotely sensed images},
   journal = {Science of Remote Sensing},
